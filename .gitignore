@@ -32,3 +32,5 @@ models/
 .idea/
 .DS_Store
 Thumbs.db
+# Python package build metadata
+*.egg-info/
